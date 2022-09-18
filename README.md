@@ -1,12 +1,11 @@
 # Analysis-of-Titanic-Dataset
-Beginner's approach for Data analysis of the Titanic Dataset. The dataset includes features that will help predict if a person survives or not.
-
-Titanic - Machine Learning from Disaster (Beginner's Approach)
-Overview
+# Titanic - Machine Learning from Disaster (Beginner's Approach)
+### Overview
 The data has been splitted into two csv files:
 
 train.csv
 test.csv
+
 According to the given instructions, the training set should be used to build the machine learning model. On the other hand, the test set will be used to see how well the model performs on unseen data. Moreover, the predictions must be saved in another csv file.
 
 Variable notes
